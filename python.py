@@ -1,2 +1,1 @@
-helsl
-adka
+"get:stuff"
